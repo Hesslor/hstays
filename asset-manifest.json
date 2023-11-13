@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/hstays/static/css/main.7c4e869d.css",
-    "main.js": "/hstays/static/js/main.9328bfdf.js",
+    "main.css": "/hstays/static/css/main.2a7c3adc.css",
+    "main.js": "/hstays/static/js/main.0412d4d4.js",
     "static/media/r.mp4": "/hstays/static/media/r.7f9260bd0782b3d0e423.mp4",
     "static/media/hotel-linen-services.jpg": "/hstays/static/media/hotel-linen-services.bfa977c0a9fd066a468f.jpg",
     "static/media/hee.png": "/hstays/static/media/hee.f624565a0cdbd44ed0f6.png",
     "index.html": "/hstays/index.html",
-    "main.7c4e869d.css.map": "/hstays/static/css/main.7c4e869d.css.map",
-    "main.9328bfdf.js.map": "/hstays/static/js/main.9328bfdf.js.map"
+    "main.2a7c3adc.css.map": "/hstays/static/css/main.2a7c3adc.css.map",
+    "main.0412d4d4.js.map": "/hstays/static/js/main.0412d4d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.7c4e869d.css",
-    "static/js/main.9328bfdf.js"
+    "static/css/main.2a7c3adc.css",
+    "static/js/main.0412d4d4.js"
   ]
 }
